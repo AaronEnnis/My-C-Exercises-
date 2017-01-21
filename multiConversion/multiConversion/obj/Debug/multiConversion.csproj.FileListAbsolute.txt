@@ -1,0 +1,18 @@
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\bin\Debug\multiConversion.exe.config
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\bin\Debug\multiConversion.exe
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\bin\Debug\multiConversion.pdb
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\obj\Debug\multiConversion.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\obj\Debug\multiConversion.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\obj\Debug\multiConversion.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\obj\Debug\multiConversion.csproj.GenerateResource.Cache
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\obj\Debug\multiConversion.exe
+C:\Users\aaron\Documents\3rd year\c#\multiConversion\multiConversion\obj\Debug\multiConversion.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\bin\Debug\multiConversion.exe.config
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\obj\Debug\multiConversion.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\obj\Debug\multiConversion.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\bin\Debug\multiConversion.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\bin\Debug\multiConversion.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\obj\Debug\multiConversion.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\obj\Debug\multiConversion.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\obj\Debug\multiConversion.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\multiConversion\multiConversion\obj\Debug\multiConversion.csproj.GenerateResource.Cache

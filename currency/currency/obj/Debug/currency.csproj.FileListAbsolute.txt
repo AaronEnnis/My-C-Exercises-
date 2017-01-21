@@ -1,0 +1,19 @@
+C:\Users\aaron\Documents\3rd year\currency\currency\bin\Debug\currency.exe.config
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\bin\Debug\currency.exe.config
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\bin\Debug\currency.exe
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\bin\Debug\currency.pdb
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\obj\Debug\currency.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\obj\Debug\currency.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\obj\Debug\currency.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\obj\Debug\currency.csproj.GenerateResource.Cache
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\obj\Debug\currency.exe
+C:\Users\aaron\Documents\3rd year\c#\currency\currency\obj\Debug\currency.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\bin\Debug\currency.exe.config
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\obj\Debug\currency.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\obj\Debug\currency.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\bin\Debug\currency.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\bin\Debug\currency.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\obj\Debug\currency.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\obj\Debug\currency.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\obj\Debug\currency.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\currency\currency\obj\Debug\currency.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\bin\Debug\menu.exe.config
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\bin\Debug\menu.exe
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\bin\Debug\menu.pdb
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\obj\Debug\menu.csproj.GenerateResource.Cache
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\obj\Debug\menu.exe
+C:\Users\aaron\Documents\3rd year\c#\menu\menu\obj\Debug\menu.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\bin\Debug\menu.exe.config
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\obj\Debug\menu.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\obj\Debug\menu.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\bin\Debug\menu.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\bin\Debug\menu.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\menu\menu\obj\Debug\menu.csproj.GenerateResource.Cache

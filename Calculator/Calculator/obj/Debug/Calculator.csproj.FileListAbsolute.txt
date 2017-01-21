@@ -1,0 +1,27 @@
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\aaron\Documents\3rd year\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\aaron\Documents\3rd year\c#\Lab 1 - c00190504\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
